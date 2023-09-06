@@ -14,10 +14,10 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;F6QgVaIY#W0jkQsRkN7Nrm4OVuYF84uxHtBS-Tk4SsBPbzU8JqeQ' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://nilutest_user:tfYV19nVopA57D58cU7iGshKQ27Ii0dy@dpg-cjrs6j8jbais73fu8uf0-a.oregon-postgres.render.com/nilutest'
 
 
 
@@ -25,27 +25,27 @@ global.POSTGRESQL_URL = ''
 
 global.OWNER_NUMBER = '94767438882'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'Ericson'
 
-global.TIMEZONE = 'Asia/Colombo' 
+global.TIMEZONE = 'Africa/Nairobi' 
 
 global.INBOX_BLOCK_MESSAGE = '' // Inboc Block Message
 
 global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
-global.READ_MESSAGE = "true" 
+global.READ_MESSAGE = "false" 
 
-global.OPENAI_API_KEY = "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" 
+global.OPENAI_API_KEY = "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" 
 
 /*
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'NILU-MD'
  
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = 'Ericson.stickers🤹‍♂️' //sticker
 
 global.FOOTER = 'Queen Nilu 2023 '
 
@@ -65,7 +65,7 @@ global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
 
 global.ANTI_BAD_ACTION = false
 
-global.ANTI_LINK = 'false' //Anti Link (on = True , Off = False )
+global.ANTI_LINK = 'true' //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
@@ -82,7 +82,7 @@ global.SEX_DL = 'false' // 18 + video dl
 
 global.AUTO_STICKER = true
 
-global.AUTO_REPLY = true
+global.AUTO_REPLY = false 
 
 global.VOICE_REPLY = true
 
@@ -91,5 +91,5 @@ global.VOICE_REPLY = true
 
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
 global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
-global.location = "Srilanka, colombo" //ur location
+global.location = "Nairobi, Kenya" //ur location
 
